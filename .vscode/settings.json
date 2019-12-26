@@ -1,0 +1,7 @@
+{
+    "python.analysis.cacheFolderPath": "/Users/admin/PycharmProjects/multiple-file-upload-master/venv/bin/python",
+    "python.pythonPath": "/Users/admin/anaconda3/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
